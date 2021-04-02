@@ -1,3 +1,11 @@
+config.py
+
+API_practice.ipynb
+WeatherPy_Practice.ipynb
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
